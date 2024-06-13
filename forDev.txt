@@ -1,0 +1,3 @@
+I am developer
+Hello world!
+The world greets you, developer, good luck!
